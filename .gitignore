@@ -1,0 +1,10 @@
+npm-debug.log
+scratchpad.txt
+node_modules
+coverage
+.DS_Store
+.sass-cache
+.vscode
+cdn
+dist
+_site
